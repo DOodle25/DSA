@@ -24,6 +24,6 @@ If you have suggestions for improvements, found a bug, or want to contribute you
 
 ## Connect
 
-Let's connect! You can find me on [GitHub](https://github.com/yourusername) and [LinkedIn](https://linkedin.com/in/yourlinkedinprofile) to discuss anything related to DSA or programming in general.
+Let's connect! You can find me on [GitHub](https://github.com/DOodle25) and [LinkedIn](https://www.linkedin.com/in/dipen-patel-792296260/) to discuss anything related to DSA or programming in general.
 
 Happy coding! 💻✨
